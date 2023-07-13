@@ -60,7 +60,7 @@ const HowTo = () => {
           </li>
           <li className="timeline-inverted">
             <div className="timeline-image">
-              <a href="">
+              <a href="https://github.com/Dheeraj-k-j/VisualSort">
                 <h4>
                   Wanna
                   <br />
