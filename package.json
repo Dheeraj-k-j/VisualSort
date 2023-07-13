@@ -1,5 +1,4 @@
 {
-  "homepage": "http://Dheeraj-k-j.github.io/VisualSort",
   "name": "sorting-visualizer",
   "private": true,
   "version": "1.0.0",
@@ -7,8 +6,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
@@ -25,7 +22,6 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.1",
-    "gh-pages": "^5.0.0",
     "vite": "^4.4.0"
   }
 }
