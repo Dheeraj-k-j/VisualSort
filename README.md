@@ -35,7 +35,7 @@ To run the project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```
-   cd sorting-algorithm-visualization
+   cd VisualSort
    ```
 
 3. Install the dependencies:
