@@ -10,9 +10,9 @@ function App() {
     <BrowserRouter>
      <Header/>
       <Routes>
-        <Route path="/" element={<Outlet />}>
+        <Route path="/VisualSort" element={<Outlet />}>
           <Route index element={<SortingVisualizer/>} />
-          <Route path="/HowTo" element={<HowTo/>} />
+          <Route path="/VisualSort/HowTo" element={<HowTo/>} />
         </Route>
       </Routes>
       <Footer/>

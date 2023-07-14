@@ -5,7 +5,7 @@ import heapSort from "../SortingAlgos/HeapSort";
 import "./SortingVisualizer.css";
 
 // Change this value for the number of bars (value) in the array.
-const NUMBER_OF_ARRAY_BARS = (window.innerWidth - 110) / 5;
+const NUMBER_OF_ARRAY_BARS = (window.innerWidth - 120) / 5;
 // const NUMBER_OF_ARRAY_BARS = 10;
 const HEIGHT = window.innerHeight - Math.floor(window.innerHeight / 4);
 

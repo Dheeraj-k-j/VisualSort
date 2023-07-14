@@ -6,11 +6,11 @@ const Header = () => {
   return (
     <nav>
       <div className="logo">
-        <Link to="/" className="logo-link"><h2>VisualSort</h2></Link>
+        <Link to="/VisualSort" className="logo-link"><h2>VisualSort</h2></Link>
       </div>
       <ul className="nav-links">
-        <li className="nav-item"><Link className="nav-link" to="/">Home</Link></li>
-        <li className="nav-item"><Link className="nav-link" to="/HowTo">HowTo</Link></li>
+        <li className="nav-item"><Link className="nav-link" to="/VisualSort">Home</Link></li>
+        <li className="nav-item"><Link className="nav-link" to="/VisualSort/HowTo">HowTo</Link></li>
       </ul>
     </nav>
   );
