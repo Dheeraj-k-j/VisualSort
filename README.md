@@ -13,7 +13,7 @@ This repository contains a sorting algorithm visualization project built using J
 
 ## Demo
 
-You can see live working project [here](https://dheeraj-k-j.github.io/VisualSort). The demo showcases the sorting algorithm visualization in action and allows you to interact with it.
+You can see live working [project here](https://dheeraj-k-j.github.io/VisualSort). The demo showcases the sorting algorithm visualization in action and allows you to interact with it.
 
 ## Features
 
